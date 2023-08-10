@@ -45,3 +45,9 @@ print ('------------')
 # Ejemplo con un argumento
 for e in range(8):
     print(e) 
+
+
+#bucle con for
+print ('------------')
+for ninos in ["carlos","maria", "roberto"]:
+    print("Lava tu ropa:" + ninos)

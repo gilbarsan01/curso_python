@@ -38,3 +38,4 @@ numbers, characters = separate_numbers_and_characters(input_list)
 print("Lista de números:", numbers)
 print("Lista de caracteres:", characters)
 
+

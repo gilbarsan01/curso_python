@@ -31,3 +31,18 @@ print(my_list)
 
 my_list.clear() #Funcion para borrar la lista
 print(my_list)
+
+
+
+
+#Pertenencia de un elemento
+# animal = ['oso', 'caballo', 'perro', 'gato' ]
+# #'pedf' in animal
+# animal.count('oso')
+
+
+
+#Iterar usando enumeración
+shopping = ['Agua', 'Huevos', 'Aceite', 'Sal', 'Limón']
+for i, product in enumerate(shopping):
+    print(i, product)

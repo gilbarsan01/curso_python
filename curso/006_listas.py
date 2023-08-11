@@ -18,7 +18,7 @@ print(my_list)
 my_list.insert(3, 'add_value') #Funcion para agregar elemento indicando la posicion en donde añadir.
 print(my_list)
 
-my_list.remove('Hola')   #Funcion para renover el primer valor en coincidencia.
+my_list.remove('Hola')   #Funcion para remover el primer valor en coincidencia.
 print(my_list)
 
 my_list.pop(2)   #Funcion para eliminar elemento indicando la posicion.
